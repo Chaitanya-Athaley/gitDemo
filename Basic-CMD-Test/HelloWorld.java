@@ -3,5 +3,8 @@ public class HelloWorld {
         System.out.println("Hello, World!");
         System.out.println("Add new line");
         System.out.println("Add new line");
+
+        System.out.println("Add new line for online");
+
     }
 }
